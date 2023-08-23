@@ -1,8 +1,9 @@
 // ignore_for_file: prefer_const_declarations, prefer_const_constructors, prefer_const_literals_to_create_immutables
 
 import 'dart:io';
-import 'package:cv_maker/main.dart';
 import 'package:flutter/material.dart';
+
+import 'MakerPage.dart';
 
 class CVPage extends StatelessWidget {
   // const CVPage({super.key});
